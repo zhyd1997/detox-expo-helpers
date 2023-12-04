@@ -7,12 +7,14 @@ Utilities for using [detox](http://github.com/wix/detox) in your Expo/Create Rea
 ### Install it
 
 ```
-yarn add detox-expo-helpers -D
+yarn add @zhyd1997/detox-expo-helpers -D
  # or
-npm i detox-expo-helpers --save-dev
+npm i @zhyd1997/detox-expo-helpers --save-dev
 ```
 
 Also, declare `expo-detox-hooks` in your project's `package.json`.
+
+> TODO
 
 ### Set up detox on your project
 

@@ -1,6 +1,6 @@
 {
   "name": "@zhyd1997/detox-expo-helpers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {},
